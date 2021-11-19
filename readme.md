@@ -8,20 +8,20 @@
 
 这里是一系列好用的翻墙规则，针对 [Shadowrocket](https://liguangming.com/Shadowrocket) 开发，支持广告过滤。规则定义了哪些网站可以直连，哪些必须走代理，规则是一个纯文本文件，无法提供翻墙功能。使用 Python 按照一定的规则和模板定期自动生成，并且使用开源的力量，集众人之力逐渐完善。
 
-**正在使用手机浏览本页面的用户 [请点击这里](https://github.com/h2y/Shadowrocket-ADBlock-Rules/blob/master/readme.md)，查看完整的说明文档。**
+**正在使用手机浏览本页面的用户 [请点击这里](https://github.com/zhangyenull/Shadowrocket-ADBlock-Rules/blob/master/readme.md)，查看完整的说明文档。**
 
 **本规则具有以下特点：**
 
 - 黑名单由最新版 GFWList 自动转换；白名单针对全球 top500 站点的连通情况定期自动生成。
 - 自动转换最新版本的 `EasyList, Eaylist China, 乘风规则` 为 SR 规则，全面去除广告且去除重复。
-- 也包括自定义的广告过滤规则，针对 iOS 端的网页广告、App 广告和视频广告。（[常见广告过滤效果统计](https://github.com/h2y/Shadowrocket-ADBlock-Rules/issues/40)）
+- 也包括自定义的广告过滤规则，针对 iOS 端的网页广告、App 广告和视频广告。（[常见广告过滤效果统计](https://github.com/zhangyenull/Shadowrocket-ADBlock-Rules/issues/40)）
 - 提供多个规则文件让大家自由选择或者自由切换使用。
 - 专门针对 ShadowRocket 开发，可以保证与 SR 的兼容性。
 
 
 ## 规则列表
 
-![规则选择指南](https://h2y.github.io/Shadowrocket-ADBlock-Rules/figure/guide.png)
+![规则选择指南](https://zhangyenull.github.io/Shadowrocket-ADBlock-Rules/figure/guide.png)
 
 规则 | 规定代理的网站 | 规定直连的网站 
 --- | ----------- | ------------- 
@@ -106,13 +106,13 @@ iPLC 隧道不经过拥堵的公网出国、不经过防火墙，是目前最优
 
 ## 问题反馈
 
-任何问题欢迎在 [Issues](https://github.com/h2y/Shadowrocket-ADBlock-Rules/issues) 中反馈，如果没有账号可以去 [我的网站](https://hzy.pw/p/2096#comments) 中留言。
+任何问题欢迎在 [Issues](https://github.com/zhangyenull/Shadowrocket-ADBlock-Rules/issues) 中反馈。
 
 你的反馈会让此规则变得更加完美。
 
 **如何贡献代码？**
 
-通常的情况下，对 [factory 目录](https://github.com/h2y/Shadowrocket-ADBlock-Rules/tree/master/factory) 下的 3 个 `manual_*.txt` 文件做对应修改即可。
+通常的情况下，对 [factory 目录](https://github.com/zhangyenull/Shadowrocket-ADBlock-Rules/tree/master/factory) 下的 3 个 `manual_*.txt` 文件做对应修改即可。
 
 
 ## 捐助
@@ -136,7 +136,7 @@ iPLC 隧道不经过拥堵的公网出国、不经过防火墙，是目前最优
 
 规则地址：<https://git.io/JfIXs>
 
-![二维码](https://h2y.github.io/Shadowrocket-ADBlock-Rules/figure/sr_top500_banlist_ad.png?1)
+![二维码](https://zhangyenull.github.io/Shadowrocket-ADBlock-Rules/figure/sr_top500_banlist_ad.png?1)
 
 ## 白名单过滤 + 广告
 
@@ -148,7 +148,7 @@ iPLC 隧道不经过拥堵的公网出国、不经过防火墙，是目前最优
 
 规则地址：<https://git.io/JfIXo>
 
-![二维码](https://h2y.github.io/Shadowrocket-ADBlock-Rules/figure/sr_top500_whitelist_ad.png?1)
+![二维码](https://zhangyenull.github.io/Shadowrocket-ADBlock-Rules/figure/sr_top500_whitelist_ad.png?1)
 
 
 ## 黑名单过滤
@@ -161,7 +161,7 @@ iPLC 隧道不经过拥堵的公网出国、不经过防火墙，是目前最优
 
 规则地址：<https://git.io/JfIXS>
 
-![二维码](https://h2y.github.io/Shadowrocket-ADBlock-Rules/figure/sr_top500_banlist.png?1)
+![二维码](https://zhangyenull.github.io/Shadowrocket-ADBlock-Rules/figure/sr_top500_banlist.png?1)
 
 
 ## 白名单过滤
@@ -174,7 +174,7 @@ iPLC 隧道不经过拥堵的公网出国、不经过防火墙，是目前最优
 
 规则地址：<https://git.io/JfIXh>
 
-![二维码](https://h2y.github.io/Shadowrocket-ADBlock-Rules/figure/sr_top500_whitelist.png?1)
+![二维码](https://zhangyenull.github.io/Shadowrocket-ADBlock-Rules/figure/sr_top500_whitelist.png?1)
 
 
 ## 国内外划分 + 广告
@@ -183,7 +183,7 @@ iPLC 隧道不经过拥堵的公网出国、不经过防火墙，是目前最优
 
 规则地址：<https://git.io/JfI1k>
 
-![二维码](https://h2y.github.io/Shadowrocket-ADBlock-Rules/figure/sr_cnip_ad.png?1)
+![二维码](https://zhangyenull.github.io/Shadowrocket-ADBlock-Rules/figure/sr_cnip_ad.png?1)
 
 
 ## 国内外划分
@@ -192,7 +192,7 @@ iPLC 隧道不经过拥堵的公网出国、不经过防火墙，是目前最优
 
 规则地址：<https://git.io/JfI1q>
 
-![二维码](https://h2y.github.io/Shadowrocket-ADBlock-Rules/figure/sr_cnip.png?1)
+![二维码](https://zhangyenull.github.io/Shadowrocket-ADBlock-Rules/figure/sr_cnip.png?1)
 
 
 ## 直连去广告
@@ -204,7 +204,7 @@ iPLC 隧道不经过拥堵的公网出国、不经过防火墙，是目前最优
 
 规则地址：<https://git.io/JfI1m>
 
-![二维码](https://h2y.github.io/Shadowrocket-ADBlock-Rules/figure/sr_direct_banad.png?1)
+![二维码](https://zhangyenull.github.io/Shadowrocket-ADBlock-Rules/figure/sr_direct_banad.png?1)
 
 
 ## 代理去广告
@@ -217,7 +217,7 @@ iPLC 隧道不经过拥堵的公网出国、不经过防火墙，是目前最优
 
 规则地址：<https://git.io/JfI13>
 
-![二维码](https://h2y.github.io/Shadowrocket-ADBlock-Rules/figure/sr_proxy_banad.png?1)
+![二维码](https://zhangyenull.github.io/Shadowrocket-ADBlock-Rules/figure/sr_proxy_banad.png?1)
 
 
 ## 回国规则
@@ -230,7 +230,7 @@ iPLC 隧道不经过拥堵的公网出国、不经过防火墙，是目前最优
 
 规则地址：<https://git.io/JfI1s>
 
-![二维码](https://h2y.github.io/Shadowrocket-ADBlock-Rules/figure/sr_backcn.png?1)
+![二维码](https://zhangyenull.github.io/Shadowrocket-ADBlock-Rules/figure/sr_backcn.png?1)
 
 
 ## 回国规则 + 广告
@@ -243,4 +243,4 @@ iPLC 隧道不经过拥堵的公网出国、不经过防火墙，是目前最优
 
 规则地址：<https://git.io/JfI1Z>
 
-![二维码](https://h2y.github.io/Shadowrocket-ADBlock-Rules/figure/sr_backcn_ad.png?1)
+![二维码](https://zhangyenull.github.io/Shadowrocket-ADBlock-Rules/figure/sr_backcn_ad.png?1)
