@@ -134,7 +134,7 @@ iPLC 隧道不经过拥堵的公网出国、不经过防火墙，是目前最优
 - 直连：正常的网站
 - 包含广告过滤
 
-规则地址：<https://git.io/JfIXs>
+规则地址：<https://git.io/J1wvn>
 
 ![二维码](https://zhangyenull.github.io/Shadowrocket-ADBlock-Rules/figure/sr_top500_banlist_ad.png?1)
 
@@ -146,7 +146,7 @@ iPLC 隧道不经过拥堵的公网出国、不经过防火墙，是目前最优
 - 代理：默认代理其余的所有境外网站
 - 包含广告过滤
 
-规则地址：<https://git.io/JfIXo>
+规则地址：<https://git.io/J1wv2>
 
 ![二维码](https://zhangyenull.github.io/Shadowrocket-ADBlock-Rules/figure/sr_top500_whitelist_ad.png?1)
 
@@ -159,7 +159,7 @@ iPLC 隧道不经过拥堵的公网出国、不经过防火墙，是目前最优
 - 直连：正常的网站
 - 不包含广告过滤
 
-规则地址：<https://git.io/JfIXS>
+规则地址：<https://git.io/J1wvi>
 
 ![二维码](https://zhangyenull.github.io/Shadowrocket-ADBlock-Rules/figure/sr_top500_banlist.png?1)
 
@@ -172,7 +172,7 @@ iPLC 隧道不经过拥堵的公网出国、不经过防火墙，是目前最优
 - 代理：默认代理其余的所有境外网站
 - 不包含广告过滤
 
-规则地址：<https://git.io/JfIXh>
+规则地址：<https://git.io/J1wvb>
 
 ![二维码](https://zhangyenull.github.io/Shadowrocket-ADBlock-Rules/figure/sr_top500_whitelist.png?1)
 
