@@ -181,7 +181,7 @@ iPLC 隧道不经过拥堵的公网出国、不经过防火墙，是目前最优
 
 国内外划分，对中国网站直连，外国网站代理。包含广告过滤。国外网站总是走代理，对于某些港澳台网站，速度反而会比直连更快。
 
-规则地址：<https://git.io/JfI1k>
+规则地址：<https://git.io/J1wJn>
 
 ![二维码](https://zhangyenull.github.io/Shadowrocket-ADBlock-Rules/figure/sr_cnip_ad.png?1)
 
@@ -190,7 +190,7 @@ iPLC 隧道不经过拥堵的公网出国、不经过防火墙，是目前最优
 
 国内外划分，对中国网站直连，外国网站代理。不包含广告过滤。国外网站总是走代理，对于某些港澳台网站，速度反而会比直连更快。
 
-规则地址：<https://git.io/JfI1q>
+规则地址：<https://git.io/J1wUf>
 
 ![二维码](https://zhangyenull.github.io/Shadowrocket-ADBlock-Rules/figure/sr_cnip.png?1)
 
@@ -202,7 +202,7 @@ iPLC 隧道不经过拥堵的公网出国、不经过防火墙，是目前最优
 - 直连：所有请求
 - 包含广告过滤
 
-规则地址：<https://git.io/JfI1m>
+规则地址：<https://git.io/J1wUq>
 
 ![二维码](https://zhangyenull.github.io/Shadowrocket-ADBlock-Rules/figure/sr_direct_banad.png?1)
 
@@ -215,7 +215,7 @@ iPLC 隧道不经过拥堵的公网出国、不经过防火墙，是目前最优
 - 代理：其余所有请求
 - 包含广告过滤
 
-规则地址：<https://git.io/JfI13>
+规则地址：<https://git.io/J1wUg>
 
 ![二维码](https://zhangyenull.github.io/Shadowrocket-ADBlock-Rules/figure/sr_proxy_banad.png?1)
 
@@ -228,7 +228,7 @@ iPLC 隧道不经过拥堵的公网出国、不经过防火墙，是目前最优
 - 代理：中国网站
 - 不包含广告过滤
 
-规则地址：<https://git.io/JfI1s>
+规则地址：<https://git.io/J1wUo>
 
 ![二维码](https://zhangyenull.github.io/Shadowrocket-ADBlock-Rules/figure/sr_backcn.png?1)
 
@@ -241,6 +241,6 @@ iPLC 隧道不经过拥堵的公网出国、不经过防火墙，是目前最优
 - 代理：中国网站
 - 包含广告过滤
 
-规则地址：<https://git.io/JfI1Z>
+规则地址：<https://git.io/J1wUS>
 
 ![二维码](https://zhangyenull.github.io/Shadowrocket-ADBlock-Rules/figure/sr_backcn_ad.png?1)
